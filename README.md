@@ -1,3 +1,3 @@
 # Laptop Price Comparer
 
-Application that provides users with centralized way to search and compare prices of laptops from different sellers. It uses python to scrape information about laptops, then persists data to MongoDB, from where data can be delivered to users according to their search criteria.
+Application offers users a centralized platform to effortlessly search and compare laptop prices across various sellers. Powered by Python, it efficiently scrapes comprehensive laptop information and seamlessly stores it in MongoDB. Users can then access tailored data based on their specific search parameters.
